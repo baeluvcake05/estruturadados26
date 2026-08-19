@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\bin\Debug\net10.0\aiai.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\bin\Debug\net10.0\aiai.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\bin\Debug\net10.0\aiai.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\bin\Debug\net10.0\aiai.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\bin\Debug\net10.0\aiai.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\refint\aiai.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\aiai.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\aiai\obj\Debug\net10.0\ref\aiai.dll
