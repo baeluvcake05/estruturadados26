@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\bin\Debug\net10.0\Lista Ordenada.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\bin\Debug\net10.0\Lista Ordenada.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\bin\Debug\net10.0\Lista Ordenada.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\bin\Debug\net10.0\Lista Ordenada.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\bin\Debug\net10.0\Lista Ordenada.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\refint\Lista Ordenada.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\Lista Ordenada.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Listas\Lista Ordenada\obj\Debug\net10.0\ref\Lista Ordenada.dll
