@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\bin\Debug\net10.0\TorreHanoi.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\bin\Debug\net10.0\TorreHanoi.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\bin\Debug\net10.0\TorreHanoi.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\bin\Debug\net10.0\TorreHanoi.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\bin\Debug\net10.0\TorreHanoi.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\refint\TorreHanoi.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\TorreHanoi.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\TorreHanoi\obj\Debug\net10.0\ref\TorreHanoi.dll

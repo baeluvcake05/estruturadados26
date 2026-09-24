@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\bin\Debug\net10.0\PILHAS.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\bin\Debug\net10.0\PILHAS.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\bin\Debug\net10.0\PILHAS.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\bin\Debug\net10.0\PILHAS.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\bin\Debug\net10.0\PILHAS.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\refint\PILHAS.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\PILHAS.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Pilhas\PILHAS\obj\Debug\net10.0\ref\PILHAS.dll
