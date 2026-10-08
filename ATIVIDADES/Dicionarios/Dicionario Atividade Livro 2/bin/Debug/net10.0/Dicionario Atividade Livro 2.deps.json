@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Dicionario Atividade Livro 2/1.0.0": {
+        "runtime": {
+          "Dicionario Atividade Livro 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dicionario Atividade Livro 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

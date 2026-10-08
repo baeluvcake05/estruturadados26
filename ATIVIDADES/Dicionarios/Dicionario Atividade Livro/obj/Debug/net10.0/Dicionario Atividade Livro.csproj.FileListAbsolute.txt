@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\bin\Debug\net10.0\Dicionario Atividade Livro.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\bin\Debug\net10.0\Dicionario Atividade Livro.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\bin\Debug\net10.0\Dicionario Atividade Livro.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\bin\Debug\net10.0\Dicionario Atividade Livro.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\bin\Debug\net10.0\Dicionario Atividade Livro.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\refint\Dicionario Atividade Livro.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\Dicionario Atividade Livro.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionario Atividade Livro\obj\Debug\net10.0\ref\Dicionario Atividade Livro.dll

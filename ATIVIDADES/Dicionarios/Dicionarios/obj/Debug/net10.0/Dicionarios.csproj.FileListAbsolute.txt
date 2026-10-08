@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\bin\Debug\net10.0\Dicionarios.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\bin\Debug\net10.0\Dicionarios.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\bin\Debug\net10.0\Dicionarios.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\bin\Debug\net10.0\Dicionarios.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\bin\Debug\net10.0\Dicionarios.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\refint\Dicionarios.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\Dicionarios.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Dicionarios\obj\Debug\net10.0\ref\Dicionarios.dll
