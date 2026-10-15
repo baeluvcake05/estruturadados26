@@ -1,0 +1,5 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvore de Pessoas\obj\Debug\net10.0\Arvore de Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvore de Pessoas\obj\Debug\net10.0\Arvore de Pessoas.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvore de Pessoas\obj\Debug\net10.0\Arvore de Pessoas.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvore de Pessoas\obj\Debug\net10.0\Arvore de Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvore de Pessoas\obj\Debug\net10.0\Arvore de Pessoas.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\bin\Debug\net10.0\Desafio Automovel.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\bin\Debug\net10.0\Desafio Automovel.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\bin\Debug\net10.0\Desafio Automovel.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\bin\Debug\net10.0\Desafio Automovel.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\bin\Debug\net10.0\Desafio Automovel.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\refint\Desafio Automovel.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\Desafio Automovel.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Dicionarios\Desafio Automovel\obj\Debug\net10.0\ref\Desafio Automovel.dll

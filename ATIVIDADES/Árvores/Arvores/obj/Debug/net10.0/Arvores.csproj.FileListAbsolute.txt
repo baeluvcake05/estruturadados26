@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\bin\Debug\net10.0\Arvores.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\bin\Debug\net10.0\Arvores.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\bin\Debug\net10.0\Arvores.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\bin\Debug\net10.0\Arvores.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\bin\Debug\net10.0\Arvores.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\refint\Arvores.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\Arvores.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Árvores\Arvores\obj\Debug\net10.0\ref\Arvores.dll
