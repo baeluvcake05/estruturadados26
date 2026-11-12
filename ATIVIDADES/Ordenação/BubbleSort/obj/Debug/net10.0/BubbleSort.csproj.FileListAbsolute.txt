@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\bin\Debug\net10.0\BubbleSort.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\bin\Debug\net10.0\BubbleSort.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\bin\Debug\net10.0\BubbleSort.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\bin\Debug\net10.0\BubbleSort.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\bin\Debug\net10.0\BubbleSort.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\refint\BubbleSort.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\BubbleSort.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Ordenação\BubbleSort\obj\Debug\net10.0\ref\BubbleSort.dll
