@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Acompanhamento de Tarefas/1.0.0": {
+        "runtime": {
+          "Acompanhamento de Tarefas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acompanhamento de Tarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

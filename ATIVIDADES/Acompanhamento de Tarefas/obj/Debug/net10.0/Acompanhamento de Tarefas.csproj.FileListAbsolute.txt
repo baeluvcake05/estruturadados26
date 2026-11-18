@@ -1,0 +1,15 @@
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\bin\Debug\net10.0\Acompanhamento de Tarefas.exe
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\bin\Debug\net10.0\Acompanhamento de Tarefas.deps.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\bin\Debug\net10.0\Acompanhamento de Tarefas.runtimeconfig.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\bin\Debug\net10.0\Acompanhamento de Tarefas.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\bin\Debug\net10.0\Acompanhamento de Tarefas.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.AssemblyInfoInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.AssemblyInfo.cs
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.sourcelink.json
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\refint\Acompanhamento de Tarefas.dll
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.pdb
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\Acompanhamento de Tarefas.genruntimeconfig.cache
+C:\Users\431629\Documents\Estrutura de Dados\2026\ATIVIDADES\Acompanhamento de Tarefas\obj\Debug\net10.0\ref\Acompanhamento de Tarefas.dll
